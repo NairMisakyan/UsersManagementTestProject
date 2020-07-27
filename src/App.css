@@ -1,0 +1,17 @@
+.header-wrapper{
+  height: 70px;
+  background-color: #3d3d5f;
+  font-family: Dialog;
+  color: white;
+  font-size: 45px;
+  margin-bottom: 3%;
+}
+.login-wrapper{
+  width: 600px;
+  margin: 10% auto;
+  text-align: center;
+}
+.user-wrapper{
+  width: 1300px;
+  margin: 0 auto;
+}
